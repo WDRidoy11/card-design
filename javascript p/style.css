@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+#card {
+    box-shadow: 0 0 22px 7px rgba(0, 0, 0, 0.2);
+    padding: 76px 0px;
+}
+
+#img {
+    max-width: 300px;
+    height: 292px;
+    border-radius: 50%;
+    border: 5px solid #ddd;
+    box-shadow: 0 0 22px 7px rgba(0, 0, 0, 0.2);
+}
+
+#card h3 {
+    margin: 10px 0px;
+    font-size: 1.6rem;
+    font-style: italic;
+}
+
+.form-control {
+    padding: 10px 30px;
+    border-radius: 50px;
+    margin: 10px 0px;
+}
+
+#btn {
+    padding: 7px 30px;
+    border-radius: 50px;
+    border: 1px solid #ddd;
+    background: #06de48;
+    color: #fff;
+    font-size: 18px;
+}
